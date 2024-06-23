@@ -42,10 +42,6 @@
 
 }
 
-.explore-menu-list-item img:hover{
-    transform: scale(1.01) translateY(-1.2px);
-}
-
 .explore-menu-list-item p{
     margin-top: 10px;
     color: white;
