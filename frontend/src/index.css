@@ -2,14 +2,17 @@
 
 
 *{
+ 
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   font-family:Outfit;
+  scroll-behavior: smooth;
 
 }
 
 body{
+
   min-height: 100vh;
   background-color: black;
   
@@ -21,7 +24,7 @@ a{
 }
 
 .app{
-  width: 100%;
+  width: 80%;
   margin: auto;
 }
 
