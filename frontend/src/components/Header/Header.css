@@ -2,7 +2,7 @@
     position: relative;
     height: 34vw;
      margin: 30px auto;
-    background:url('/header02.jpg');
+    background:url('/header02.png');
     filter:saturate(70%);
     filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.8));
     background-repeat: no-repeat;
