@@ -8,7 +8,7 @@
     <header>
         <h1>Salty Food Delivery Website</h1>
         <p> This food delivery web application was built on the MERN stack. The app offers a comprehensive food ordering experience. Users can sign up, add food items to their cart, place orders, and track order statuses.</p>
-          <img src="[img/logo.png](https://github.com/user-attachments/assets/2abc641e-b1c4-4416-bb52-2340708a90c6" alt="Food Delivery Website" style="max-width: 150px; display: block; margin: 0 auto;">
+          <img src="https://github.com/user-attachments/assets/2abc641e-b1c4-4416-bb52-2340708a90c6" alt="Food Delivery Website" style="max-width: 150px; display: block; margin: 0 auto;">
     </header>
     <main>
         <section>
